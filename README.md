@@ -16,7 +16,7 @@ Under the following terms:
 
 Full license: https://creativecommons.org/licenses/by/4.0/
 
-If you would like to drop me a tip ⚡satstackingpleb@pay.structur3.io ⚡it would be greatly appreciated.
+If you would like to drop me a tip ⚡structur3llc@strike.me ⚡ it would be greatly appreciated.
 
 
 ![image](https://github.com/user-attachments/assets/26f8be58-aee2-4e25-bfc2-7684a5867b32)
