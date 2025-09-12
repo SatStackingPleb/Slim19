@@ -9,7 +9,7 @@ You are free to:
 - Adapt — remix, transform, and build upon the material
 - Use commercially — including selling prints or derivatives
 
-If you would like to drop me a tip ⚡structur3llc@strike.me ⚡ it would be greatly appreciated.
+If you would like to send me a few sats, they will go into my business treasury here @ ⚡structur3llc@strike.me ⚡ and it is greatly appreciated.
 
 
 ![image](https://github.com/user-attachments/assets/26f8be58-aee2-4e25-bfc2-7684a5867b32)
