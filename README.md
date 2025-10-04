@@ -1,4 +1,7 @@
-# Slim19
+░█▀▀░█░░░▀█▀░█▄█░▀█░░▄▀▄░
+░▀▀█░█░░░░█░░█░█░░█░░░▀█░
+░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀░░
+
 Recycle the S19/S21 extruded aluminum into a 120V loki rig with this retrofit kit that only requires 2 120mm fans, a CB, APW3++, pivotalpleb.com lokit kit, power cables, and 1kg roll of filament.
 
 This 3D model pack (STL files) is licensed under the Creative Commons 
