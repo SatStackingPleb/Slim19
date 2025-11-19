@@ -16,6 +16,7 @@ You are free to:
 
 If you would like to send me a few sats, they will go into my business treasury here @ ⚡structur3llc@strike.me ⚡ and it is greatly appreciated.
 
+Rick Thomas has created a guide that you can find here >>> https://www.montanibitcoin.com/theplebstandard/blog-post-slim19-part1
 
 ![image](https://github.com/user-attachments/assets/26f8be58-aee2-4e25-bfc2-7684a5867b32)
 ![image](https://github.com/user-attachments/assets/1f9605bb-d087-4efc-bcad-b7bf0201bd55)
