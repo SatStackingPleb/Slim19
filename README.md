@@ -3,6 +3,8 @@ Slim19/21 Retrofit Kit
 A retrofit kit to recycle the S19/S21 extruded aluminum into a 120V single board rig. this config only requires 2 120mm or 140mm fans, a CB, APW3++, 6awg pure copper power cables, and 1kg roll of filament.
 
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/b54ec788-0b6f-48fc-8b32-81cf9ac80edf" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/7906200b-ea1b-4cb4-bdb7-552e2b97e064" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/da0f4cbb-9b4e-4433-a9bc-b2428a32425e" />
 
 
 If you would like to send me a few sats, they will go into my business treasury here @ ⚡structur3llc@strike.me ⚡ and it is greatly appreciated.
